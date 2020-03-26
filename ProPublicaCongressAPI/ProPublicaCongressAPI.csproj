@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <Description>Easy to use wrapper around the Pro Publica Congress API</Description>
-    <VersionPrefix>1.1.0</VersionPrefix>
+    <VersionPrefix>1.1.1</VersionPrefix>
     <Authors>Justin Skiles</Authors>
     <AssemblyName>ProPublicaCongressAPI</AssemblyName>
     <PackageId>ProPublicaCongressAPI</PackageId>
